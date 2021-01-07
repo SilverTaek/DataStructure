@@ -1,2 +1,2 @@
 # DataStructure
-DataStrucutre with Java
+DataStructure with Java
